@@ -1,0 +1,8 @@
+﻿  GameCode.cpp
+C:\Users\jige15p\Desktop\EZproject-main\arithmetic.h(302,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“GameCode.cpp”)
+  
+C:\Users\jige15p\Desktop\EZproject-main\arithmetic.h(317,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“GameCode.cpp”)
+  
+  Arithmetic game.vcxproj -> C:\Users\jige15p\Desktop\EZproject-main\x64\Debug\Arithmetic game.exe
